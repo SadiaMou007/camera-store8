@@ -2,10 +2,17 @@
   position: relative;
 }
 .selected-cart{
-  background-color: rgb(230, 214, 214);
+  background-color: rgb(230, 214, 214); 
   position: sticky;
   top: 0;
-  padding: 25px 15px;
+  padding: 5px 3px;
   
+}
+.cart-btn{
+  background-color: rgb(100, 59, 59);
+  color:white;
 
+}
+.cart-btn:hover{
+  background-color: rgb(88, 42, 42)
 }

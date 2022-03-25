@@ -32,10 +32,12 @@ const Body = () => {
         </div>
         <div className="col-lg-3 col-sm-3">
           <div className="selected-cart">
-            <h4>Selected Camera</h4>
+            <h4 className="mt-5">Selected Camera</h4>
             {cart.map((item) => (
               <Cart key={item.id} item={item}></Cart>
             ))}
+            <button className="w-100 p-2 rounded border-0 mt-2 cart-btn">Choose 1 For Me</button>
+            <button className="border-0 w-100 my-2 p-2 rounded cart-btn">Choose Again</button>
           </div>
         </div>
       </div>
