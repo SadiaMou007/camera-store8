@@ -1,12 +1,13 @@
 .nav{
     height: 70px;
-    color:maroon;
+    background-color: rgb(70, 63, 63);
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .icon{
     font-size: 1.5rem;
     margin-left: 5px;
-    color: rgb(114, 102, 102);
+    color: rgb(156, 149, 149);
 }

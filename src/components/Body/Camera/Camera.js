@@ -1,8 +1,9 @@
 import React from 'react'
 
-const Camera = () => {
+const Camera = (props) => {
+    console.log(props.camera);
   return (
-    <div>Camera</div>
+    <div></div>
   )
 }
 
