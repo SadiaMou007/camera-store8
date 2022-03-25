@@ -1,9 +1,12 @@
-import React from 'react'
-import './Cart.css'
-const Cart = () => {
+import React from "react";
+import "./Cart.css";
+const Cart = ({item}) => {
+  console.log(item);
   return (
-    <div className='selected-cart me-0'><h4>Selected Camera</h4></div>
-  )
-}
+    <div className="selected-cart me-0">
+      <div><h6>{item.name}</h6></div>
+    </div>
+  );
+};
 
-export default Cart
+export default Cart;

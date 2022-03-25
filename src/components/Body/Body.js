@@ -6,11 +6,10 @@ const Body = () => {
   const [cameras, setCameras] = useState([]);
   const [cart, setCart] = useState([]);
 
-const handleAddToCart=(camera)=>{
-  const newCart=[...cart,camera];
-  setCart(newCart);
-  console.log(cart);
-}
+  const handleAddToCart = (camera) => {
+    const newCart = [...cart, camera];
+    setCart(newCart);
+  };
 
   useEffect(() => {
     fetch("data.json")
@@ -18,17 +17,26 @@ const handleAddToCart=(camera)=>{
       .then((data) => setCameras(data));
   }, []);
   return (
-    <div className="container bg-light ">
+    <div className="container bg-light body">
       <div className="row">
         <div className="col-lg-9 col-sm-9">
           <div className="row my-5 g-2">
             {cameras.map((camera) => (
-              <Camera key={camera.id} camera={camera} handleAddToCart={handleAddToCart}></Camera>
+              <Camera
+                key={camera.id}
+                camera={camera}
+                handleAddToCart={handleAddToCart}
+              ></Camera>
             ))}
           </div>
         </div>
-        <div className="col-lg-3 col-sm-3 body">
-          <Cart></Cart>
+        <div className="col-lg-3 col-sm-3">
+          <div className="selected-cart">
+            <h4>Selected Camera</h4>
+            {cart.map((item) => (
+              <Cart key={item.id} item={item}></Cart>
+            ))}
+          </div>
         </div>
       </div>
     </div>
