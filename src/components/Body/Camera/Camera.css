@@ -1,0 +1,14 @@
+.camera-img {
+  height: 250px;
+}
+
+.cart-icon {
+  color: rgb(100, 59, 59);
+  font-size: 2rem;
+}
+.cart-icon:hover {
+  color: rgb(73, 6, 6);
+}
+.name {
+  color: rgb(73, 6, 6);
+}
