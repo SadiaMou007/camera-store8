@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Camera from "./Camera/Camera";
 import Cart from "./Cart/Cart";
+import './Body.css'
 const Body = () => {
   const [cameras, setCameras] = useState([]);
   useEffect(() => {
@@ -18,7 +19,7 @@ const Body = () => {
             ))}
           </div>
         </div>
-        <div className="col-lg-3 col-sm-3">
+        <div className="col-lg-3 col-sm-3 body">
           <Cart></Cart>
         </div>
       </div>
