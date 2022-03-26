@@ -1,13 +1,15 @@
-.nav{
-    height: 70px;
-    background-color: rgb(70, 63, 63);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
+.nav {
+  height: 70px;
+  background-color: rgb(88, 42, 42);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
-.icon{
-    font-size: 1.5rem;
-    margin-left: 5px;
-    color: rgb(156, 149, 149);
+/* camera icon */
+.icon {
+  font-size: 1.5rem;
+  margin-left: 5px;
+  color: rgb(156, 149, 149);
 }

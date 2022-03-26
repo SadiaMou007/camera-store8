@@ -1,74 +1,74 @@
 [
-    {
-      "id": "623dd8038aa552c177a624af",
-      "img": "https://img.freepik.com/free-photo/professional-camera-close-up-photographer-s-desktop-blurred-background_169016-10677.jpg?t=st=1648218941~exp=1648219541~hmac=bb8b7f5d3b288adb01424ec308ed7aa48908bd192028732573eeaa0aa00cf226&w=740",
-      "name": "Blackburn Mays",
-      "price": "230"
-    },
-    {
-      "id": "623dd80371322d2a95fba26a",
-      "img": "https://img.freepik.com/free-photo/professional-camera-blurred-background-with-laptop_169016-10676.jpg?w=740&t=st=1648220917~exp=1648221517~hmac=23366e49bb0170084dfb13373097a4e18d2bb0bd51805909e13b2f52937eb225",
-      "name": "Hannah Peterson",
-      "price": "199"
-    },
-    {
-      "id": "623dd8032be27e0d02874f1b",
-      "img": "https://img.freepik.com/free-photo/professional-digital-camera-close-up-blurred-background-concept-technology-working-with-photos-videos_169016-10227.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Gray Mcbride",
-      "price": "308"
-    },
-    {
-      "id": "623dd803c0e7c6b99c4cfb37",
-      "img": "https://img.freepik.com/free-photo/vintage-retro-camera-black-white-background-flat-lay_169016-17220.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Lula Horn",
-      "price": "287"
-    },
-    {
-      "id": "623dd803e99e791891c3d20f",
-      "img": "https://img.freepik.com/free-photo/close-up-professional-digital-camera-tripod-blurred-background-concept-technology-working-with-photos-videos_169016-10354.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Imogene Stafford",
-      "price": "99"
-    },
-    {
-      "id": "623dd8035d69c576949c4c02",
-      "img": "https://img.freepik.com/free-photo/flat-lay-film-camera-isolated-pink-background-copy-space_136875-797.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Ashley Rosales",
-      "price": "125"
-    },
-    {
-      "id": "623dd803a9e5e1356d464ed2",
-      "img": "https://img.freepik.com/free-photo/old-retro-camera-wooden-table-background_93675-128086.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Pearlie Contreras",
-      "price": "179"
-    },
-    {
-      "id": "623dd8033c3d16195a835827",
-      "img": "https://img.freepik.com/free-photo/old-retro-camera-wooden-table-background_93675-128086.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Patricia Simmons",
-      "price": "123"
-    },
-    {
-      "id": "623dd803f26dcdd12f3ff12b",
-      "img": "https://img.freepik.com/free-photo/close-up-vintage-photo-camera-with-yellow-background_23-2148300555.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Small Fields",
-      "price": "150"
-    },
-    {
-      "id": "623dd8037157d79b96852585",
-      "img": "https://img.freepik.com/free-photo/old-fashioned-camera-closed-diary-wooden-desk_23-2148188201.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Adriana Bradshaw",
-      "price": "89"
-    },
-    {
-      "id": "623dd803ffdfb6938146ab22",
-      "img": "https://img.freepik.com/free-photo/vintage-camera-with-lens-isolated-white-background_23-2148188251.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
-      "name": "Minnie Salazar",
-      "price": "107"
-    },
-    {
-      "id": "623dd813ffdfb6938146ab22",
-      "img": "https://img.freepik.com/free-photo/top-view-modern-dslr-camera-isolated-white-background_627281-44.jpg?size=626&ext=jpg&ga=GA1.1.1395737918.1641046705",
-      "name": "Minnie Salazar2",
-      "price": "165"
-    }
-  ]
+  {
+    "id": "623dd8038aa552c177a624af",
+    "img": "https://img.freepik.com/free-photo/professional-camera-close-up-photographer-s-desktop-blurred-background_169016-10677.jpg?t=st=1648218941~exp=1648219541~hmac=bb8b7f5d3b288adb01424ec308ed7aa48908bd192028732573eeaa0aa00cf226&w=740",
+    "name": "Blackburn Mays",
+    "price": "230"
+  },
+  {
+    "id": "623dd80371322d2a95fba26a",
+    "img": "https://img.freepik.com/free-photo/professional-camera-blurred-background-with-laptop_169016-10676.jpg?w=740&t=st=1648220917~exp=1648221517~hmac=23366e49bb0170084dfb13373097a4e18d2bb0bd51805909e13b2f52937eb225",
+    "name": "Hannah Peterson",
+    "price": "199"
+  },
+  {
+    "id": "623dd8032be27e0d02874f1b",
+    "img": "https://img.freepik.com/free-photo/professional-digital-camera-close-up-blurred-background-concept-technology-working-with-photos-videos_169016-10227.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Gray Mcbride",
+    "price": "308"
+  },
+  {
+    "id": "623dd803c0e7c6b99c4cfb37",
+    "img": "https://img.freepik.com/free-photo/vintage-retro-camera-black-white-background-flat-lay_169016-17220.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Lula Horn",
+    "price": "287"
+  },
+  {
+    "id": "623dd803e99e791891c3d20f",
+    "img": "https://img.freepik.com/free-photo/close-up-professional-digital-camera-tripod-blurred-background-concept-technology-working-with-photos-videos_169016-10354.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Imogene Stafford",
+    "price": "99"
+  },
+  {
+    "id": "623dd8035d69c576949c4c02",
+    "img": "https://img.freepik.com/free-photo/flat-lay-film-camera-isolated-pink-background-copy-space_136875-797.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Ashley Rosales",
+    "price": "125"
+  },
+  {
+    "id": "623dd803a9e5e1356d464ed2",
+    "img": "https://img.freepik.com/free-photo/old-retro-camera-wooden-table-background_93675-128086.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Pearlie Contreras",
+    "price": "179"
+  },
+  {
+    "id": "623dd8033c3d16195a835827",
+    "img": "https://media.istockphoto.com/photos/leisure-photos-picture-id834741464?k=20&m=834741464&s=612x612&w=0&h=WYL-3IVhhxnsBLriypcaSBLGRkwZAO8dQGTw6uATPAM=",
+    "name": "Patricia Simmons",
+    "price": "123"
+  },
+  {
+    "id": "623dd803f26dcdd12f3ff12b",
+    "img": "https://img.freepik.com/free-photo/close-up-vintage-photo-camera-with-yellow-background_23-2148300555.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Small Fields",
+    "price": "150"
+  },
+  {
+    "id": "623dd8037157d79b96852585",
+    "img": "https://img.freepik.com/free-photo/old-fashioned-camera-closed-diary-wooden-desk_23-2148188201.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Adriana Bradshaw",
+    "price": "89"
+  },
+  {
+    "id": "623dd803ffdfb6938146ab22",
+    "img": "https://img.freepik.com/free-photo/vintage-camera-with-lens-isolated-white-background_23-2148188251.jpg?size=626&ext=jpg&ga=GA1.2.1395737918.1641046705",
+    "name": "Minnie Salazar",
+    "price": "107"
+  },
+  {
+    "id": "623dd813ffdfb6938146ab22",
+    "img": "https://img.freepik.com/free-photo/top-view-modern-dslr-camera-isolated-white-background_627281-44.jpg?size=626&ext=jpg&ga=GA1.1.1395737918.1641046705",
+    "name": "Minnie Salazar2",
+    "price": "165"
+  }
+]
