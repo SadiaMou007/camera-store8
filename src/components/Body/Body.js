@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Camera from "./Camera/Camera";
 import Cart from "./Cart/Cart";
 import "./Body.css";
+import Questions from "./Questions/Questions";
 const Body = () => {
   const [cameras, setCameras] = useState([]);
   const [cart, setCart] = useState([]);
@@ -18,14 +19,17 @@ const Body = () => {
     setCart(newCart);
   };
 
+  // set data to setCamera function
   useEffect(() => {
     fetch("data.json")
       .then((res) => res.json())
       .then((data) => setCameras(data));
   }, []);
 
+  // return Camera, Cart and Questions component
   return (
     <div className="container bg-light body">
+
       <div className="row">
         <div className="col-lg-9 col-sm-9">
           <div className="row my-5 g-2">
@@ -38,6 +42,7 @@ const Body = () => {
             ))}
           </div>
         </div>
+        
         <div className="col-lg-3 col-sm-3">
           <div className="selected-cart">
             <h4 className="mt-5">Selected Camera</h4>
@@ -56,6 +61,8 @@ const Body = () => {
           </div>
         </div>
       </div>
+
+      <Questions></Questions>
     </div>
   );
 };
